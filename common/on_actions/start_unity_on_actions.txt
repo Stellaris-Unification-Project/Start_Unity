@@ -1,0 +1,5 @@
+on_game_start = {
+	events = {
+		game_start_unity.1 # Spawn special/hidden countries
+    }
+}
